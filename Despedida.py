@@ -3,4 +3,4 @@ def despedida(nombre):
 
 
 if __name__ == '__main__':
-    print(despedida('Ferran'))
+    print(despedida('Gerard'))
